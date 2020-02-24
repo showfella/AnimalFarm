@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="G:\C#\Week 4\ISTA 220 OSHOFELA 02202004  EX 4A CREATING A FARM-1 .PNG" Link="ISTA 220 OSHOFELA 02202004  EX 4A CREATING A FARM-1 .PNG" />
+  </ItemGroup>
+
+</Project>
